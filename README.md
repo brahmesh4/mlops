@@ -2,6 +2,14 @@
 #Descriptions#
 !00 days Ml challenge
 #Daily Logs#
+#Challenges Goals##
+-learn how to deploy ml models to production.
+-learn about the ml pipeline
+-learn about privacy and protection for L applications.
+-Learn about UDA and Get hands on experience
+-Learn more about reinforcement learning
+-Learn about generative learning
+
 #Day 1 Just starting my joureny in MLOps training
 <h3>Deploy a linear regression model using FLASK</h3>
 <ul>
